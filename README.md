@@ -14,7 +14,7 @@
         
         └── bd_test.h5  // this is sunglasses poisoned test data
         
-├── repaired_models
+├── Repaired_models
 
     └── repaired_model_4.h5
     
@@ -22,9 +22,9 @@
     
     └── repaired_model_10.h5
     
-├── bad_net.h5
+├── bd_net.h5
 
-└── eval.py // this is the evaluation script
+└── badnet_eval.py // this is the evaluation script
 
 ```
 
