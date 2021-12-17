@@ -30,5 +30,6 @@
 
 To evaluate the repaired backdoored model (goodnet G) on a test image (in png or jpeg format), execute 
 eval.py by running:
+
 `python3 eval.py <test data directory> <repaired model directory>`
 
